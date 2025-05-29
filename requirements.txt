@@ -1,8 +1,10 @@
 streamlit
 openai
-langchain
+langchain>=0.1.0
 chromadb
 tiktoken
 python-dotenv
 PyPDF2
 python-docx
+pandas
+duckdb
