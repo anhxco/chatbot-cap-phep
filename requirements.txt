@@ -9,3 +9,4 @@ python-docx
 pandas
 duckdb
 langchain-community
+protobuf<=3.20.3
